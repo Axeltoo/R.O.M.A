@@ -4,7 +4,7 @@
 	<br>
   <a href="https://youtu.be/dQw4w9WgXcQ?si=zPTwWOVFaU9NcEUG"><img src="https://github.com/Axeltoo/R.O.M.A/blob/main/FgMEpQa9who.jpg" width="700" height="500" alt="Робот от команды LH MIREA" width="800"></a>
   <br>
-	Робот от команды LH MIREA
+	Робот от команды LС MIREA
   <br>
 </h1>
 
