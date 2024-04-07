@@ -1,3 +1,11 @@
+<h1 align="center">
+  <a <img src="https://github.com/Axeltoo/R.O.M.A/blob/main/FgMEpQa9who.jpg" alt="Робот от команды LH MIREA" width="800"></a>
+  <br>
+	Робот от команды LH MIREA
+  <br>
+</h1>
+
+
 ## Основные детали
 * usb-разветвитель или преобразователь логических уровней;
 * usb-ttl преобразователь;
