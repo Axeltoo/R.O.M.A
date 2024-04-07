@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/TrashRobotics/CVbot/blob/main/README.md">Русский</a> •
-  <a href="https://github.com/TrashRobotics/CVbot/blob/main/README-en.md">English(Английский)</a> 
-</p>
-
 ## Основные детали тележки
 * orange pi zero 512мб;
 * веб-камера;
