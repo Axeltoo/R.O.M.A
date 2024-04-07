@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://youtu.be/SoLUaoV-Cu4"><img src="https://github.com/Axeltoo/R.O.M.A/blob/main/FgMEpQa9who.jpg" alt="Робот от команды LH MIREA" width="800"></a>
+  <a href="https://vk.com/rtuandbeer"><img src="https://github.com/Axeltoo/R.O.M.A/blob/main/FgMEpQa9who.jpg" alt="Робот от команды LH MIREA" width="800"></a>
   <br>
 	Робот от команды LH MIREA
   <br>
