@@ -1,4 +1,7 @@
 <h1 align="center">
+	<br>
+	НЕ НАЖИМАЙТЕ НА КАРТИНКУ !!!!!!!!!!!
+	<br>
   <a href="https://youtu.be/dQw4w9WgXcQ?si=zPTwWOVFaU9NcEUG"><img src="https://github.com/Axeltoo/R.O.M.A/blob/main/FgMEpQa9who.jpg" alt="Робот от команды LH MIREA" width="800"></a>
   <br>
 	Робот от команды LH MIREA
